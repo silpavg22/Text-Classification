@@ -1,4 +1,4 @@
-# Text-Classification
+# Text-Classification Of Rotten Tomato Review Using Naive Bayes
 Implemented a text classifier which is used for the classification of Rotten Tomato Movie Reviews Dataset in Kaggle.
 https://www.kaggle.com/datasets/ulrikthygepedersen/rotten-tomatoes-reviews
 
